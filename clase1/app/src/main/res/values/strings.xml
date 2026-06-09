@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Primera App</string>
+    <string name="titulo_curso">Curso Kotlin</string>
+    <string name="label_usuario">ingrese su usuario</string>
+    <string name="label_password">ingresa tu password</string>
+    <string name="btn_ingresar">INGRESAR</string>
+</resources>

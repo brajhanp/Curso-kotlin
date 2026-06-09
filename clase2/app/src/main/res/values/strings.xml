@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">clase 3</string>
+    <string name="login">Ingresar</string>
+    <string name="curso_kotlin">Curso Kotlin</string>
+    <string name="ingresa_tu_usuario">Ingresa tu usuario</string>
+    <string name="ingresa_tu_password">Ingresa tu password</string>
+    <string name="logo_app">logo app</string>
+    <string name="email">correo electrónico</string>
+    <string name="secret_password">secreto</string>
+</resources>
