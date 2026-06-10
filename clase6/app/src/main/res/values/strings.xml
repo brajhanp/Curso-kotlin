@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">clase 6</string>
+    <string name="title_notes">Mis notas</string>
+    <string name="description_toggle_layout">Cambiar diseño</string>
+    <string name="empty_title">Atención</string>
+    <string name="empty_description">No olvides tus notas importantes. Agrega notas presionando el botón de más.</string>
+    <string name="add_note_description">Agregar nota</string>
+    <string name="note_title_placeholder">Título</string>
+    <string name="note_content_placeholder">Este es un contenido de prueba largo para simular cómo se vería una nota con mucho texto en la lista de notas del usuario.</string>
+    <string name="note_date_placeholder">12/12/2026</string>
+</resources>

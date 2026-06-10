@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Take Notes</string>
+    <string name="title_notes">Mis notas</string>
+    <string name="attention">Atención</string>
+    <string name="empty_notes_desc">No olvides tus notas importantes. Agrega notas presionando el botón de más.</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_content">Contenido de la nota</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="label_register">Registro</string>
+    <string name="label_update">Actualización</string>
+    <string name="error_required">Campo requerido</string>
+    <string name="content_description_back">Atrás</string>
+    <string name="content_description_toggle">Cambiar diseño</string>
+    <string name="content_description_add">Agregar nota</string>
+</resources>
